@@ -180,6 +180,11 @@ content = @`
         <a href="https://roscrl.com/" target="_blank" class="hover:bg-black hover:text-white rounded-md p-2">Created
             by
             Ross
-            Carlisle</a>
+            Carlisle,
+            Assembled
+            by
+            Branimir
+            Bucalovic
+            </a>
     </footer>
 `)
