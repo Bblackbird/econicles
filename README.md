@@ -12,7 +12,7 @@ API's used [AlphaVantage](https://www.alphavantage.co), [IEXCloud](https://iexcl
   mvn install
 ```
 
-Java 17 or use with [Jetbrains JDK 17](https://github.com/JetBrains/JetBrainsRuntime/releases/tag/jbr17.0.2b396.4) for hotreload
+Java 18 - not clear if that works with [Jetbrains JDK 17](https://github.com/JetBrains/JetBrainsRuntime/releases/tag/jbr17.0.2b396.4) for hotreload
 
 Run App.main() in debug mode (for hotswap) with arguments
 
